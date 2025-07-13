@@ -1,0 +1,199 @@
+/* Google font embaded */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+ font-family: "Inter", sans-serif;
+
+  font-family: "Merriweather", serif;
+ body{
+ max-width: 1300px;
+ margin: 0 auto;
+ }
+   .inter{
+   font-family: "Inter", sans-serif
+   
+
+
+  }
+
+  .merri{
+    font-family: "Merriweather", serif;
+   text-align: center;
+   color: aliceblue;
+   margin-top: 5px;
+  }
+  .merri{
+    text-align: center;
+
+  }
+
+     .new-party{
+       background-image:linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%),url(../Image-2/bazi\ picture.jpg);
+       width: 1190px;
+       height: 360px;
+       padding: 120px 30px 120px 30px;
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+       justify-content: center;
+       text-align: center;
+       
+     }
+
+   .party-text p{
+    color: rgb(194, 176, 176);
+    font-size: 20px;
+    text-align: center;  
+    
+ }
+   .party-text h1{
+   color: white;
+   font-size: 50px;
+   margin-top: 40px;
+   text-align: center;
+   }
+    .holiday-1{
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      background-position: center;
+      margin-top: 92px;
+      font-size: 55px;
+      color: red;
+    }
+    .holiday-p{
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      background-position: center;
+      margin-top: 12px;
+      font-size: 15px;
+      color: red;
+        }
+     .holiday-3{
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      background-position: center;
+      margin-top: 12px;
+      font-size: 25px;
+     }
+      .holiday-image{
+      
+       width: 802px;
+       height: 500px;
+       position: absolute;
+      
+      left: 400px;
+      right: -399px;
+      top: 160px
+      bottom: 600px;
+      }
+    .Welcome{
+     background-image: url(../Image-2/holly\ picture.jpg);
+       position: absolute;
+       width: 1290px;
+       height: -200px ;
+       border-radius: 15px;
+       padding-bottom: 1040px;
+       background-repeat: no-repeat;
+       margin-top: 630px;
+       display: flex;
+       flex-direction: column;
+       justify-content: center; 
+       left:156px;
+       }
+  
+    .midnight-party h1{
+    color: aliceblue;
+    position: absolute;
+    font-size: 53px;
+    padding-top: 9%; 
+   padding-left: 13%;
+  }
+   .midnight-party p{
+    color: rgb(189, 192, 192);
+    position: absolute;
+    font-size: 15px;
+    padding-top: 22%;
+    padding-left: 13%;
+  }
+
+
+.btn-new{
+ font-size: 14px;
+ border-radius: 8px;
+ width: 100px;
+ height: 20px;
+ margin-top: 370px;
+ margin-left: 13%;
+}
+.Welcome div-24{
+ min-width: 220px;
+ height: 190px;
+ margin-left: 50%; 
+ border: 2px solid;
+  display: flex;
+}
+  .comming-soon1{
+  background-color: #e7dee2;
+  margin-top: 1260px;
+  width: 680px;
+  height: 290px;
+  align-items: center;
+  justify-content: center;
+  margin-left: 545px;
+  }
+  .div-time{
+  text-align: center;
+  margin-top: 12px;
+  padding: 20px;
+  margin-left: 35px;
+  }
+  .div-time button{
+    background-color: red;
+    border:none ;
+    border-radius: 4px;
+  }
+.comming-soon{
+ margin-top: 110px;
+ text-align: center; 
+ display: flex;
+ justify-content: center;
+ flex-direction: row;
+ gap: 11px;
+ align-items: center;
+  h4{
+    font-size: 35px;
+   margin-bottom: 7px;
+   margin-top: 7px;
+  }
+  .red{
+  color: red;
+  }
+  .count{
+    color: red;
+    font-size: 60px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+  }
+   .tara-bazi{
+     border: 5px solid red;
+    border-radius: 100%;
+   padding: 5%;
+   text-align: center;
+   }
+    .para-2{
+   font-size: 14px;
+   color: red;
+    }
+  
+
+
+
+
+   }
+   .brand-gift{
+    width: 450px;
+    height: 340px;
+    text-align: center;
+    display: flex;
+   }
